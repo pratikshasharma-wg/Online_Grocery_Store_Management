@@ -1,6 +1,6 @@
 import yaml
 
-FPATH='database//database_queries//db_queries.yml'
+FPATH='database\\database_queries\\db_queries.yml'
 
 class Config:
 

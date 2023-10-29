@@ -14,13 +14,13 @@ logger = logging.getLogger('customer')
 
 class Customer:
     def __init__(self,username):
-        self.username=username
+        self.username = username
         logger.info(Logs.CUSTOMER_MSG.format(name = username))
         self.menu()
  
     def menu(self):
-        operation=input(Config.CUSTOMER_CHOICE)
-        while operation!='5':
+        operation = input(Config.CUSTOMER_CHOICE)
+        while operation != '5':
             match operation:
                 case '1':
                     product_controller.show_all_avail_prod()
@@ -32,5 +32,5 @@ class Customer:
                     order_controller.update_wallet(self.username)
                 case _:
                     print(Config.ENTER_VALID_PROMPT)
-            operation=input(Config.CUSTOMER_CHOICE)
+            operation = input(Config.CUSTOMER_CHOICE)
             

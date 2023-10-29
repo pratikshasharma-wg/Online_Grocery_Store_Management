@@ -42,7 +42,7 @@ class Main:
                 self.logged_in=False
             elif self.role == "Admin":
                 admin = Admin(self.username)
-                self.logged_in=False
+                self.logged_in = False
        
     
 if __name__ == "__main__":  

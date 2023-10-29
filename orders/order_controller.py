@@ -10,7 +10,7 @@ def show_all_orders():
     with DatabaseConnection(Config.DB_NAME) as connection:
         cursor = connection.cursor()
         print(tabulate((cursor.execute(db_query_config.Config.SHOW_ALL_ORDERS)).fetchall(), 
-                       headers=["Order ID","Product ID","Product Quantity","Customer username","Total Cost"]),"\n")
+                       headers = ["Order ID","Product ID","Product Quantity","Customer username","Total Cost"]),"\n")
 
 
 def select_order_products(username):

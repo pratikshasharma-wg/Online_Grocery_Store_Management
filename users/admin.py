@@ -13,13 +13,13 @@ logger = logging.getLogger('admin')
 
 class Admin:
     def __init__(self,username):
-        self.username=username
+        self.username = username
         logging.info(Logs.ADMIN_MSG)
         self.menu()
 
     def menu(self):
-        admin_choice=input(Config.ADMIN_CHOICE)
-        while admin_choice!='6':
+        admin_choice = input(Config.ADMIN_CHOICE)
+        while admin_choice != '6':
             match admin_choice:
                 case '1': 
                     product_controller.show_all_products()
@@ -33,4 +33,4 @@ class Admin:
                     order_controller.show_all_orders()
                 case _:
                     print(Config.ENTER_VALID_PROMPT)
-            admin_choice=input(Config.ADMIN_CHOICE)    
+            admin_choice = input(Config.ADMIN_CHOICE)    

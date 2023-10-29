@@ -8,8 +8,8 @@ class Config:
     def load(cls):
         with open(FPATH,'r') as f:
             data=yaml.safe_load(f)
-            cls.ADMIN_CHOICE=data['admin_prompt']
-            cls.CUSTOMER_CHOICE=data['customer_prompt']
+            cls.ADMIN_CHOICE = data['admin_prompt']
+            cls.CUSTOMER_CHOICE = data['customer_prompt']
             cls.WELCOME_STRING = data['welcome']
             cls.DB_NAME = data['database_name']
             cls.ASK_FOR_LOGIN_SIGNUP = data['ask_for_login_signup']

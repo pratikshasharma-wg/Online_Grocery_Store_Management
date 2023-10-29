@@ -13,7 +13,7 @@ logger = logging.getLogger('auth')
 
 
 def login():
-    attempts=3
+    attempts = 3
     while attempts:
         logged_in , role , username = login_details()
         if logged_in == False:
@@ -21,7 +21,7 @@ def login():
             print(f'{attempts}',Config.ATTEMPTS_LEFT_WARNING)
         else:
             return [logged_in , role , username]
-    if attempts==0:
+    if attempts == 0:
             logging.warning(Logs.LOGIN_ATTEMPTS_EXCEEDED)
             sys.exit()
 
