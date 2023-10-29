@@ -1,0 +1,13 @@
+WELCOME_MSG : Welcome to Online Grocery Store...
+
+LOGIN_ATTEMPTS_EXCEEDED : Login Attempts Exceeded!!!
+
+SUCCESS_LOGIN : Successfully Logged In...
+
+SUCCESS_SIGNUP : Successfully Signed Up...
+
+ADMIN_MSG : Welcome Admin
+
+CUSTOMER_MSG : Welcome Customer {name}
+
+PROD_DOES_NOT_EXIST : Product does not exist!!!

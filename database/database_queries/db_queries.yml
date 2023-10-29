@@ -1,0 +1,89 @@
+CREATE_USER_TABLE : |
+  CREATE TABLE if not exists user
+  (name text,email text PRIMARY KEY,wallet_status real)
+  
+CREATE_LOGIN_TABLE : |
+  CREATE TABLE if not exists login
+  (email text PRIMARY KEY,
+  password text NOT NULL,
+  role text NOT NULL,
+  CONSTRAINT fk5 FOREIGN KEY (email) REFERENCES user(email))
+  
+CREATE_PRODUCT_TABLE : |
+  CREATE TABLE if not exists product
+  (p_id INTEGER PRIMARY KEY ,
+  prod_name text,
+  prod_quant real, 
+  prod_price real)
+
+CREATE_ORDER_TABLE : |
+  CREATE TABLE if not exists my_order
+  (o_id  INTEGER , 
+  email text NOT NULL,
+  p_id INTEGER , 
+  quantity real, 
+  cost real,
+  CONSTRAINT fk1 FOREIGN KEY(email) REFERENCES user(email),
+  CONSTRAINT fk2 FOREIGN KEY(p_id) REFERENCES product(p_id),
+  PRIMARY KEY (p_id,o_id))
+
+CREATE_BILLING_HISTORY_TABLE : |
+  CREATE TABLE if not exists billing
+  (o_id text Primary Key,
+  email text NOT NULL, 
+  total_cost real, 
+  CONSTRAINT fk3 FOREIGN KEY (email) REFERENCES user(email),
+  CONSTRAINT fk4 FOREIGN KEY(o_id) REFERENCES my_order(o_id))
+
+SHOW_ALL_ORDERS : |
+  SELECT * FROM my_order
+                
+ADD_ORDER : |
+  INSERT INTO my_order (o_id,email,p_id,quantity,cost) VALUES(?,?,?,?,?)
+
+SHOW_ALL_PRODUCTS : |
+  SELECT * FROM product
+          
+SHOW_ALL_AVAIL_PRODUCTS : |
+  SELECT * FROM product WHERE prod_quant>0
+                       
+ADD_NEW_PRODUCT : |
+  INSERT INTO product (prod_name,prod_quant,prod_price) VALUES (?,?,?)
+      
+DELETE_PRODUCT : |
+  DELETE FROM product WHERE p_id=?
+          
+UPDATE_PRODUCT_NAME : |
+  UPDATE product set prod_name=? where p_id=?               
+
+UPDATE_PRODUCT_QUANTITY : |
+  UPDATE product SET prod_quant=? where p_id=?                    
+
+UPDATE_PRODUCT_PRICE : |
+  UPDATE product SET prod_price=? where p_id=?
+                   
+GET_PRODUCT_PRICE : |
+  SELECT prod_price FROM product WHERE p_id=?
+                 
+CHECK_WALLET_STATUS : |
+    SELECT wallet_status FROM user WHERE email=?
+                    
+UPDATE_WALLET_STATUS : |
+    UPDATE user SET wallet_status=wallet_status+? WHERE email=?
+                    
+USER_DATA : |
+    SELECT * FROM login WHERE email=?
+        
+ADD_USER : |
+    INSERT INTO user values (?,?,?)
+        
+ADD_USER_TO_LOGIN : |
+    INSERT INTO login values (?,?,"Customer")
+                
+GENERATE_BILL : 'INSERT INTO billing values (?,?,?)'
+
+REDUCE_PROD_QUAN : 'UPDATE product SET prod_quant = prod_quant-? WHERE p_id = ?'
+
+GET_PROD_QUAN : 'SELECT prod_quant FROM product WHERE p_id = ?'
+
+DEDUCT_MONEY_FROM_WALLET : 'UPDATE user SET wallet_status = wallet_status - ? WHERE email = ?'
