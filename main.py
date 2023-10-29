@@ -17,7 +17,6 @@ logger = logging.getLogger('main')
 
 
 class Main:
-
     def __init__(self):
         print(Config.WELCOME_STRING)
         cr = CreateTables()
@@ -36,7 +35,6 @@ class Main:
             else:
                 response = input(Config.ENTER_VALID_PROMPT)
                 continue
-
             if self.logged_in == False:
                 sys.exit()
             if self.role == "Customer":
@@ -47,7 +45,6 @@ class Main:
                 self.logged_in=False
        
     
-
 if __name__ == "__main__":  
     Config.load()
     db_query_config.Config.load()

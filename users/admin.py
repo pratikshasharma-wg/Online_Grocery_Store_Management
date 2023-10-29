@@ -7,10 +7,11 @@ from config.logs_stmts import Logs
 from products import product_controller
 from orders import order_controller
 
+
 logger = logging.getLogger('admin')
 
-class Admin:
 
+class Admin:
     def __init__(self,username):
         self.username=username
         logging.info(Logs.ADMIN_MSG)

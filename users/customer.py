@@ -8,7 +8,9 @@ from products import product_controller
 from orders import order_controller
 from database.db_connection import DatabaseConnection
 
+
 logger = logging.getLogger('customer')
+
 
 class Customer:
     def __init__(self,username):

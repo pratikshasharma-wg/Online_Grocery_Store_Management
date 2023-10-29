@@ -5,7 +5,9 @@ from tabulate import tabulate
 from database.database_queries import db_query_config
 from database.db_connection import DatabaseConnection
 
+
 logger = logging.getLogger('product_controller')
+
 
 def show_all_products():
     with DatabaseConnection(Config.DB_NAME) as connection:
