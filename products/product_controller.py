@@ -75,8 +75,13 @@ def check_prod_availability(p_id,p_quant):
     with DatabaseConnection(Config.DB_NAME) as connection:
         cursor = connection.cursor()
         prod_quan = (cursor.execute(db_query_config.Config.GET_PRODUCT_QUAN,(p_id,))).fetchone()
-        if prod_quan[0] < p_quant:
-            print(Config.ITEMS_REMAIN.format(number = prod_quan[0]))
-            return False
-        else:
-            return True
+        try:
+            if prod_quan == None:
+                raise Exception
+            if prod_quan[0] < p_quant:
+                print(Config.ITEMS_REMAIN.format(number = prod_quan[0]))
+                return False
+            else:
+                return True
+        except Exception as e:
+            print(Config.PROD_DOES_NOT_EXIST)
