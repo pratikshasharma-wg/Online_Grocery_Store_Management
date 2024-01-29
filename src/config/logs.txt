@@ -1,0 +1,1249 @@
+2023-10-30 00:46:42,148 INFO     [main.py:53] Welcome to Online Grocery Store...
+2023-10-30 00:47:03,497 INFO     [customer.py:15] Welcome Customer
+2023-10-30 01:22:12,784 INFO     [main.py:55] Welcome to Online Grocery Store...
+2023-10-30 01:22:22,631 INFO     [auth.py:42] Successfully Logged In...
+2023-10-30 01:25:46,119 INFO     [main.py:55] Welcome to Online Grocery Store...
+2023-10-30 01:25:56,191 INFO     [auth.py:42] Successfully Logged In...
+2023-10-30 01:25:56,191 INFO     [customer.py:16] Welcome Customer pratiksha@gmail.com
+2023-10-30 01:26:32,866 INFO     [main.py:55] Welcome to Online Grocery Store...
+2023-10-30 01:26:43,908 INFO     [auth.py:42] Successfully Logged In...
+2023-10-30 01:26:43,908 INFO     [customer.py:16] Welcome Customer pratiksha@gmail.com
+2023-10-30 01:27:57,225 INFO     [auth.py:42] Successfully Logged In...
+2023-10-30 01:27:57,225 INFO     [admin.py:16] Welcome Admin
+2023-10-30 01:37:51,805 INFO     [main.py:55] Welcome to Online Grocery Store...
+2023-10-30 01:38:04,124 INFO     [auth.py:42] Successfully Logged In...
+2023-10-30 01:38:04,124 INFO     [admin.py:16] Welcome Admin
+2023-10-30 01:38:09,465 CRITICAL [product_controller.py:59] Product does not exist!!!
+2023-10-30 01:38:42,824 INFO     [main.py:55] Welcome to Online Grocery Store...
+2023-10-30 01:38:57,803 INFO     [auth.py:42] Successfully Logged In...
+2023-10-30 01:38:57,803 INFO     [admin.py:16] Welcome Admin
+2023-10-30 01:39:01,463 CRITICAL [product_controller.py:59] Product does not exist!!!
+2023-10-30 01:40:58,886 INFO     [main.py:55] Welcome to Online Grocery Store...
+2023-10-30 01:41:08,612 INFO     [auth.py:42] Successfully Logged In...
+2023-10-30 01:41:08,612 INFO     [admin.py:16] Welcome Admin
+2023-10-30 01:41:11,865 CRITICAL [product_controller.py:59] Product does not exist!!!
+2023-10-30 01:49:48,256 INFO     [main.py:55] Welcome to Online Grocery Store...
+2023-10-30 01:50:12,183 INFO     [auth.py:42] Successfully Logged In...
+2023-10-30 01:50:12,183 INFO     [admin.py:16] Welcome Admin
+2023-10-30 01:50:20,968 CRITICAL [product_controller.py:60] Product does not exist!!!
+2023-10-30 01:50:37,984 INFO     [auth.py:42] Successfully Logged In...
+2023-10-30 01:50:37,984 INFO     [customer.py:16] Welcome Customer pratiksha@gmail.com
+2023-10-30 01:52:10,117 INFO     [main.py:55] Welcome to Online Grocery Store...
+2023-10-30 01:52:19,940 INFO     [auth.py:42] Successfully Logged In...
+2023-10-30 01:52:19,940 INFO     [customer.py:16] Welcome Customer pratiksha@gmail.com
+2023-10-30 03:32:17,389 INFO     [main.py:52] Welcome to Online Grocery Store...
+2023-10-30 03:32:32,735 INFO     [auth.py:42] Successfully Logged In...
+2023-10-30 03:32:32,735 INFO     [customer.py:18] Welcome Customer pratiksha@gmail.com
+2023-11-13 15:48:33,784 INFO     [main.py:52] Welcome to Online Grocery Store...
+2023-11-13 15:49:01,795 INFO     [main.py:52] Welcome to Online Grocery Store...
+2023-11-13 15:49:52,468 INFO     [auth.py:65] Successfully Signed Up...
+2023-12-01 08:35:14,420 INFO     [main.py:52] Welcome to Online Grocery Store...
+2023-12-01 08:38:20,132 INFO     [main.py:52] Welcome to Online Grocery Store...
+2023-12-01 08:40:31,139 INFO     [main.py:52] Welcome to Online Grocery Store...
+2023-12-01 08:40:48,286 INFO     [auth.py:42] Successfully Logged In...
+2023-12-01 08:40:48,300 INFO     [admin.py:17] Welcome Admin
+2023-12-18 15:05:23,728 INFO     [main.py:53] Welcome to Online Grocery Store...
+2023-12-18 15:05:59,030 WARNING  [auth.py:25] Login Attempts Exceeded!!!
+2024-01-11 16:17:30,086 INFO     [main.py:58] Welcome to Online Grocery Store...
+2024-01-11 16:20:16,479 INFO     [main.py:58] Welcome to Online Grocery Store...
+2024-01-11 16:24:59,403 INFO     [main.py:58] Welcome to Online Grocery Store...
+2024-01-11 16:25:17,667 INFO     [main.py:58] Welcome to Online Grocery Store...
+2024-01-11 16:25:17,706 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-11 16:25:17,706 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-11 16:25:17,706 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:25:18,490 INFO     [main.py:58] Welcome to Online Grocery Store...
+2024-01-11 16:25:18,517 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 16:25:18,519 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 16:25:23,641 INFO     [_internal.py:96] 127.0.0.1 - - [11/Jan/2024 16:25:23] "[31m[1mPOST /login HTTP/1.1[0m" 422 -
+2024-01-11 16:26:13,940 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 16:26:13,973 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:26:14,793 INFO     [main.py:58] Welcome to Online Grocery Store...
+2024-01-11 16:26:14,808 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 16:26:14,823 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 16:26:22,372 INFO     [_internal.py:96] 127.0.0.1 - - [11/Jan/2024 16:26:22] "[31m[1mPOST /login HTTP/1.1[0m" 422 -
+2024-01-11 16:26:39,444 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 16:26:39,511 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:26:40,300 INFO     [main.py:58] Welcome to Online Grocery Store...
+2024-01-11 16:26:40,331 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 16:26:40,331 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 16:27:09,228 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\main.py', reloading
+2024-01-11 16:27:09,281 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:27:10,072 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 16:27:10,072 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 16:27:16,593 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\main.py', reloading
+2024-01-11 16:27:16,640 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:27:17,511 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 16:27:17,511 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 16:27:19,786 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\main.py', reloading
+2024-01-11 16:27:19,848 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:54:23,046 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-11 16:54:23,046 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-11 16:54:23,048 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:54:23,954 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 16:54:23,954 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 16:54:26,653 INFO     [_internal.py:96] 127.0.0.1 - - [11/Jan/2024 16:54:26] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-11 16:55:03,672 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 16:55:03,741 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:55:20,478 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-11 16:55:20,478 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-11 16:55:20,480 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:55:21,304 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 16:55:21,307 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 16:55:24,473 INFO     [_internal.py:96] 127.0.0.1 - - [11/Jan/2024 16:55:24] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-11 16:56:14,738 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 16:56:15,316 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:56:16,199 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 16:56:16,201 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 16:56:42,953 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 16:56:44,063 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:56:44,925 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 16:56:44,927 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 16:56:46,318 INFO     [main.py:83] Welcome to Online Grocery Store...
+2024-01-11 16:56:52,600 INFO     [main.py:83] Welcome to Online Grocery Store...
+2024-01-11 16:56:56,512 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-11 16:56:56,512 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-11 16:56:56,512 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:56:57,300 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 16:56:57,302 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 16:57:00,425 INFO     [_internal.py:96] 127.0.0.1 - - [11/Jan/2024 16:57:00] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-11 16:57:24,061 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 16:57:24,108 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:57:24,927 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 16:57:24,927 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 16:57:48,768 INFO     [_internal.py:96] 127.0.0.1 - - [11/Jan/2024 16:57:48] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-11 16:58:13,134 INFO     [_internal.py:96] 127.0.0.1 - - [11/Jan/2024 16:58:13] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-11 16:58:52,468 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\config\\database_queries\\db_query_config.py', reloading
+2024-01-11 16:58:53,046 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:58:53,970 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 16:58:53,972 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 16:58:56,214 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\config\\database_queries\\db_query_config.py', reloading
+2024-01-11 16:58:56,261 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 16:58:57,126 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 16:58:57,126 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 16:58:58,349 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\config\\database_queries\\db_query_config.py', reloading
+2024-01-11 16:58:58,399 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:00:11,123 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-11 17:00:11,123 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-11 17:00:11,123 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:00:11,961 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:00:11,961 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:00:14,263 INFO     [_internal.py:96] 127.0.0.1 - - [11/Jan/2024 17:00:14] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-11 17:00:49,445 INFO     [main.py:83] Welcome to Online Grocery Store...
+2024-01-11 17:00:51,477 INFO     [main.py:83] Welcome to Online Grocery Store...
+2024-01-11 17:00:54,791 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-11 17:00:54,791 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-11 17:00:54,791 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:00:55,755 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:00:55,756 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:00:57,792 INFO     [_internal.py:96] 127.0.0.1 - - [11/Jan/2024 17:00:57] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-11 17:00:59,327 INFO     [_internal.py:96] 127.0.0.1 - - [11/Jan/2024 17:00:59] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-11 17:01:35,353 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 17:01:35,412 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:01:36,218 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:01:36,218 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:02:12,494 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\config\\database_queries\\db_query_config.py', reloading
+2024-01-11 17:02:12,544 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:02:33,430 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-11 17:02:33,430 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-11 17:02:33,433 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:02:34,334 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:02:34,336 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:02:36,537 INFO     [_internal.py:96] 127.0.0.1 - - [11/Jan/2024 17:02:36] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-11 17:03:18,784 INFO     [main.py:83] Welcome to Online Grocery Store...
+2024-01-11 17:03:19,754 INFO     [main.py:83] Welcome to Online Grocery Store...
+2024-01-11 17:03:22,863 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-11 17:03:22,864 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-11 17:03:22,866 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:03:23,700 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:03:23,704 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:03:25,759 INFO     [_internal.py:96] 127.0.0.1 - - [11/Jan/2024 17:03:25] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-11 17:04:22,409 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\main.py', reloading
+2024-01-11 17:04:22,471 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:04:23,258 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:04:23,258 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:04:35,200 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\main.py', reloading
+2024-01-11 17:04:35,268 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:04:36,044 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:04:36,044 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:04:41,508 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\main.py', reloading
+2024-01-11 17:04:41,558 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:04:42,324 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:04:42,324 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:04:50,994 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\main.py', reloading
+2024-01-11 17:04:51,042 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:05:07,265 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-11 17:05:07,265 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-11 17:05:07,269 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:05:07,999 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:05:07,999 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:05:11,043 INFO     [_internal.py:96] 127.0.0.1 - - [11/Jan/2024 17:05:11] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-11 17:46:34,503 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 17:46:34,595 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:46:35,895 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:46:35,895 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:46:41,599 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 17:46:41,668 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:46:42,599 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:46:42,599 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:46:51,691 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 17:46:51,757 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:46:52,895 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:46:52,898 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:46:54,137 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 17:46:54,202 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:46:55,182 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:46:55,192 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:46:56,444 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 17:46:56,502 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:46:57,414 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:46:57,414 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:47:05,403 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 17:47:05,469 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:47:06,461 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:47:06,461 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 17:47:11,022 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 17:47:11,093 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 17:47:12,003 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 17:47:12,008 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 18:02:49,889 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 18:02:50,004 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 18:02:52,372 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 18:02:52,376 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 18:02:54,101 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-11 18:02:54,279 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 18:08:40,358 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-11 18:08:40,359 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-11 18:08:40,362 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 18:08:42,300 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 18:08:42,310 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 18:09:03,833 INFO     [main.py:83] Welcome to Online Grocery Store...
+2024-01-11 18:09:03,991 INFO     [main.py:83] Welcome to Online Grocery Store...
+2024-01-11 18:09:10,114 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-11 18:09:10,114 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-11 18:09:10,115 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 18:09:11,662 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 18:09:11,662 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 18:13:06,922 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\product_controller.py', reloading
+2024-01-11 18:13:07,009 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 18:13:09,051 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 18:13:09,057 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 18:13:09,413 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\product_controller.py', reloading
+2024-01-11 18:13:09,523 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 18:13:11,557 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 18:13:11,557 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 18:13:16,472 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\product_controller.py', reloading
+2024-01-11 18:13:16,576 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 18:13:18,516 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 18:13:18,532 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 18:13:22,377 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\product_controller.py', reloading
+2024-01-11 18:13:22,456 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 18:13:24,307 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 18:13:24,312 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-11 18:13:27,083 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\product_controller.py', reloading
+2024-01-11 18:13:27,233 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-11 18:13:30,108 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-11 18:13:30,124 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:09:54,083 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 14:09:54,083 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 14:09:54,083 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:09:54,891 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:09:54,897 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:10:09,905 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\main.py', reloading
+2024-01-12 14:10:09,959 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:10:10,774 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:10:10,774 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:10:20,556 INFO     [main.py:77] Welcome to Online Grocery Store...
+2024-01-12 14:10:20,599 INFO     [main.py:77] Welcome to Online Grocery Store...
+2024-01-12 14:10:24,948 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 14:10:24,948 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 14:10:24,948 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:10:25,674 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:10:25,674 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:11:18,073 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 14:11:18,073 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 14:11:18,073 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:11:18,838 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:11:18,838 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:14:18,145 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 14:14:18,145 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 14:14:18,149 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:14:19,362 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:14:19,367 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:14:54,786 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\main.py', reloading
+2024-01-12 14:14:55,353 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:14:56,424 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:14:56,424 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:14:58,755 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\main.py', reloading
+2024-01-12 14:14:58,822 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:14:59,780 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:14:59,780 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:15:02,444 INFO     [main.py:77] Welcome to Online Grocery Store...
+2024-01-12 14:15:02,520 INFO     [main.py:77] Welcome to Online Grocery Store...
+2024-01-12 14:17:39,816 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 14:17:39,816 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 14:19:51,386 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 14:19:51,386 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 14:19:51,386 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:19:52,404 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:19:52,404 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:20:40,777 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:20:40] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-12 14:23:04,574 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\config\\database_queries\\db_query_config.py', reloading
+2024-01-12 14:23:04,642 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:23:05,759 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:23:05,759 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:23:07,104 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\config\\database_queries\\db_query_config.py', reloading
+2024-01-12 14:23:07,169 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:23:08,139 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:23:08,145 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:23:11,696 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\config\\database_queries\\db_query_config.py', reloading
+2024-01-12 14:23:11,760 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:23:12,844 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:23:12,845 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:23:17,430 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\config\\database_queries\\db_query_config.py', reloading
+2024-01-12 14:23:17,501 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:23:18,793 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:23:18,797 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:23:22,273 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\config\\database_queries\\db_query_config.py', reloading
+2024-01-12 14:23:22,334 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:23:23,262 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:23:23,267 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:23:25,609 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\config\\database_queries\\db_query_config.py', reloading
+2024-01-12 14:23:25,673 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:23:26,686 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:23:26,686 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:24:17,186 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-12 14:24:17,593 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:24:18,671 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:24:18,677 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:24:19,910 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-12 14:24:19,972 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:24:20,980 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:24:20,980 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:24:25,691 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:24:25] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-12 14:24:51,934 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\main.py', reloading
+2024-01-12 14:24:52,629 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:24:53,603 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:24:53,611 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:24:57,074 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\main.py', reloading
+2024-01-12 14:24:57,160 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:24:58,196 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:24:58,196 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:25:05,162 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 14:25:05,165 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 14:25:05,166 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:25:06,182 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:25:06,186 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:25:11,399 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:25:11] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-12 14:25:47,077 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\config\\config.py', reloading
+2024-01-12 14:25:48,049 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:25:49,014 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:25:49,022 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:25:50,265 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\config\\config.py', reloading
+2024-01-12 14:25:50,332 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:25:51,346 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:25:51,346 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:25:54,824 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\config\\config.py', reloading
+2024-01-12 14:25:54,889 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:25:56,094 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:25:56,103 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:26:12,947 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\main.py', reloading
+2024-01-12 14:26:13,020 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:26:14,035 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:26:14,037 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:26:18,969 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 14:26:18,969 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 14:26:18,974 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:26:19,974 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:26:19,974 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:26:24,158 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:26:24] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-12 14:27:12,469 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\config\\config.py', reloading
+2024-01-12 14:27:12,534 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:28:37,530 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 14:28:37,530 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 14:28:37,533 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:28:38,644 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:28:38,646 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:28:40,454 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:28:40] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-12 14:33:18,931 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 14:33:18,931 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 14:33:18,932 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:33:19,726 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:33:19,728 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:33:23,011 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:33:23] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 14:33:30,302 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:33:30] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 14:33:31,892 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:33:31] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 14:33:41,763 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:33:41] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 14:33:47,230 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:33:47] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 14:34:27,822 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:34:27] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 14:39:02,471 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 14:39:02,471 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 14:39:02,471 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:39:03,272 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:39:03,274 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:39:05,672 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:39:05] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 14:44:35,813 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 14:44:35,813 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 14:44:35,828 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:44:36,555 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:44:36,557 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:44:39,221 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:44:39] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 14:44:42,760 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:44:42] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 14:51:21,704 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 14:51:21,704 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 14:51:21,720 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:51:22,479 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:51:22,481 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:51:26,305 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:51:26] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 14:51:28,360 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:51:28] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 14:53:03,509 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 14:53:03,509 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 14:53:03,509 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:53:04,352 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:53:04,354 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:53:06,820 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:53:06] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 14:53:13,925 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:53:13] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 14:53:31,043 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-12 14:53:31,604 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 14:53:32,499 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 14:53:32,499 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 14:53:33,189 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 14:53:33] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 15:09:27,807 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 15:09:27,807 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 15:09:27,807 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 15:09:28,568 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 15:09:28,568 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 15:09:31,380 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 15:09:31] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-12 15:09:54,227 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-12 15:09:55,056 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 15:09:56,016 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 15:09:56,018 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 15:10:04,632 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-12 15:10:04,681 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 15:10:05,475 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 15:10:05,477 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 15:10:08,787 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-12 15:10:08,816 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 15:10:09,587 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 15:10:09,587 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 15:10:30,594 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 15:10:30,594 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 15:10:30,610 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 15:10:31,381 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 15:10:31,381 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 15:10:33,485 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 15:10:33] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 15:10:35,117 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 15:10:35] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 15:10:50,586 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-12 15:10:51,635 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 15:10:52,479 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 15:10:52,479 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 15:10:54,888 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 15:10:54] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 15:13:04,615 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 15:13:04,616 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 15:13:04,616 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 15:13:05,383 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 15:13:05,383 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 15:13:07,952 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 15:13:07] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 15:13:16,002 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 15:13:16] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 15:18:12,676 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 15:18:12,676 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 15:18:12,676 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 15:18:13,467 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 15:18:13,467 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 15:18:14,274 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 15:18:14] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-12 15:18:57,065 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 15:18:57,065 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-12 15:18:57,065 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-12 15:18:57,831 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-12 15:18:57,835 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-12 15:18:59,858 INFO     [_internal.py:96] 127.0.0.1 - - [12/Jan/2024 15:18:59] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-15 17:16:11,200 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-15 17:16:11,201 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-15 17:16:11,204 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 17:16:11,969 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 17:16:11,985 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 17:16:37,654 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 17:16:37] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-15 17:39:35,088 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-15 17:39:35,091 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-15 17:39:35,091 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 17:39:35,834 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 17:39:35,834 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 17:39:39,080 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 17:39:39] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-15 17:48:05,965 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-15 17:48:05,965 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-15 17:48:05,965 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 17:48:06,788 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 17:48:06,788 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 17:48:08,153 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 17:48:08] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-15 17:49:52,145 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-15 17:49:52,145 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-15 17:49:52,145 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 17:49:52,873 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 17:49:52,873 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 17:49:57,292 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 17:49:57] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-15 17:50:48,174 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-15 17:50:48,174 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-15 17:50:48,174 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 17:50:48,931 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 17:50:48,931 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 17:50:51,568 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 17:50:51] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-15 17:51:23,964 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 17:51:23] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-15 17:51:52,718 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 17:51:52] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-15 17:51:58,379 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 17:51:58] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-15 17:52:04,312 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 17:52:04] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-15 17:52:33,479 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\register.py', reloading
+2024-01-15 17:52:33,526 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 17:52:34,299 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 17:52:34,301 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 17:52:36,544 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\register.py', reloading
+2024-01-15 17:52:36,613 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 17:52:37,330 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 17:52:37,330 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 17:53:48,281 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 17:53:48] "[33mPOST /register HTTP/1.1[0m" 404 -
+2024-01-15 17:54:21,888 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\main.py', reloading
+2024-01-15 17:54:21,951 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 17:54:46,062 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-15 17:54:46,062 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-15 17:54:46,065 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 17:54:46,912 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 17:54:46,912 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 17:54:49,165 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 17:54:49] "[31m[1mPOST /register HTTP/1.1[0m" 422 -
+2024-01-15 17:55:21,128 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\register.py', reloading
+2024-01-15 17:55:21,191 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 17:55:21,942 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 17:55:21,942 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 17:55:49,174 INFO     [auth.py:62] None
+2024-01-15 17:55:49,175 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 17:55:49] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2024-01-15 17:56:21,929 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\register.py', reloading
+2024-01-15 17:56:23,037 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 17:56:23,828 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 17:56:23,828 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 17:56:30,378 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\register.py', reloading
+2024-01-15 17:56:30,457 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 18:15:29,647 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-15 18:15:29,647 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-15 18:15:29,649 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 18:15:30,528 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 18:15:30,528 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 18:15:33,504 INFO     [auth.py:63] None
+2024-01-15 18:15:33,504 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 18:15:33] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2024-01-15 18:16:38,885 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\models\\db_tables.py', reloading
+2024-01-15 18:16:38,926 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 18:16:39,684 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 18:16:39,684 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 18:16:44,075 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\models\\db_tables.py', reloading
+2024-01-15 18:16:44,126 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 18:16:44,932 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 18:16:44,932 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 18:16:47,223 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\models\\db_tables.py', reloading
+2024-01-15 18:16:47,272 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 18:16:48,087 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 18:16:48,094 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 18:16:50,353 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\models\\db_tables.py', reloading
+2024-01-15 18:16:50,415 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 18:16:51,216 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 18:16:51,216 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 18:17:38,844 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 18:17:38] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-15 18:18:09,200 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-15 18:18:09,250 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 18:18:10,019 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 18:18:10,035 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 18:18:15,736 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-15 18:18:15,736 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-15 18:18:15,736 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 18:18:16,500 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 18:18:16,502 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 18:18:19,342 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 18:18:19] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-01-15 18:19:12,128 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\schemas.py', reloading
+2024-01-15 18:19:12,178 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 18:19:12,978 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 18:19:12,978 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 18:19:16,460 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-15 18:19:16,460 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-15 18:19:16,462 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 18:19:17,226 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 18:19:17,241 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 18:19:28,096 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 18:19:28] "POST /login HTTP/1.1" 200 -
+2024-01-15 18:25:43,785 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-15 18:25:43,785 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-15 18:25:43,800 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 18:25:44,569 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 18:25:44,569 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 18:25:46,498 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 18:25:46] "POST /login HTTP/1.1" 200 -
+2024-01-15 19:54:02,509 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-15 19:54:02,509 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-15 19:54:02,509 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 19:54:03,264 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 19:54:03,264 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 19:59:25,426 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 19:59:25] "[33mPOST /add_product HTTP/1.1[0m" 404 -
+2024-01-15 19:59:50,471 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\admin.py', reloading
+2024-01-15 19:59:50,518 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 19:59:51,415 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 19:59:51,415 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 19:59:54,747 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\admin.py', reloading
+2024-01-15 19:59:54,814 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 19:59:55,622 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 19:59:55,624 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 19:59:56,813 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\admin.py', reloading
+2024-01-15 19:59:56,855 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 19:59:57,866 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 19:59:57,866 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 20:01:49,788 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 20:01:49] "[33mPOST /add_product HTTP/1.1[0m" 404 -
+2024-01-15 20:01:55,415 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 20:01:55] "[31m[1mPOST /login HTTP/1.1[0m" 422 -
+2024-01-15 20:02:12,810 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 20:02:12] "POST /login HTTP/1.1" 200 -
+2024-01-15 20:03:07,060 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 20:03:07] "[33mPOST /add_product HTTP/1.1[0m" 404 -
+2024-01-15 20:05:45,376 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 20:05:45] "[33mPOST /add_product HTTP/1.1[0m" 404 -
+2024-01-15 21:26:04,758 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:26:04] "[31m[1mPOST /login HTTP/1.1[0m" 422 -
+2024-01-15 21:26:17,128 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:26:17] "[31m[1mPOST /login HTTP/1.1[0m" 422 -
+2024-01-15 21:26:52,571 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:26:52] "[31m[1mPOST /login HTTP/1.1[0m" 422 -
+2024-01-15 21:27:02,297 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:27:02] "[31m[1mPOST /login HTTP/1.1[0m" 422 -
+2024-01-15 21:32:04,538 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:32:04] "[31m[1mPOST /login HTTP/1.1[0m" 422 -
+2024-01-15 21:32:32,318 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:32:32] "POST /login HTTP/1.1" 200 -
+2024-01-15 21:32:48,590 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:32:48] "[33mPOST /add_product HTTP/1.1[0m" 404 -
+2024-01-15 21:33:35,212 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:33:35] "[33mPOST /add_product HTTP/1.1[0m" 404 -
+2024-01-15 21:34:05,719 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:34:05] "[33mPOST /add_product HTTP/1.1[0m" 404 -
+2024-01-15 21:34:20,171 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:34:20] "[33mPOST /add_product HTTP/1.1[0m" 404 -
+2024-01-15 21:37:03,357 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-15 21:37:03,358 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-15 21:37:03,360 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 21:37:04,133 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 21:37:04,133 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 21:37:07,942 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:37:07] "POST /login HTTP/1.1" 200 -
+2024-01-15 21:37:41,504 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:37:41] "[33mPOST /add_product HTTP/1.1[0m" 404 -
+2024-01-15 21:37:42,850 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:37:42] "[33mPOST /add_product HTTP/1.1[0m" 404 -
+2024-01-15 21:42:13,388 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-15 21:42:13,388 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-15 21:42:13,388 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-15 21:42:14,235 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-15 21:42:14,235 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-15 21:42:17,328 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:42:17] "[35m[1mPOST /add_product HTTP/1.1[0m" 500 -
+2024-01-15 21:42:31,216 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:42:31] "POST /login HTTP/1.1" 200 -
+2024-01-15 21:42:35,344 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:42:35] "[35m[1mPOST /add_product HTTP/1.1[0m" 500 -
+2024-01-15 21:57:13,356 INFO     [_internal.py:96] 127.0.0.1 - - [15/Jan/2024 21:57:13] "[35m[1mPOST /add_product HTTP/1.1[0m" 500 -
+2024-01-16 09:24:13,554 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 09:24:13,556 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 09:24:13,561 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:24:14,814 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:24:14,819 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:24:43,823 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\schemas.py', reloading
+2024-01-16 09:24:43,897 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:24:44,871 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:24:44,875 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:24:46,490 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:24:46] "POST /login HTTP/1.1" 200 -
+2024-01-16 09:25:27,123 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:25:27] "[35m[1mPOST /add_product HTTP/1.1[0m" 500 -
+2024-01-16 09:26:55,525 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\admin.py', reloading
+2024-01-16 09:26:55,582 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:26:56,684 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:26:56,684 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:26:59,018 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\admin.py', reloading
+2024-01-16 09:26:59,105 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:27:00,381 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:27:00,381 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:27:03,892 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\admin.py', reloading
+2024-01-16 09:27:03,963 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:27:05,021 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:27:05,029 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:28:08,504 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 09:28:08,504 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 09:28:08,508 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:28:09,494 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:28:09,494 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:28:12,855 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:28:12] "[31m[1mPOST /add_product HTTP/1.1[0m" 400 -
+2024-01-16 09:28:51,159 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:28:51] "POST /login HTTP/1.1" 200 -
+2024-01-16 09:28:56,134 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:28:56] "[31m[1mPOST /add_product HTTP/1.1[0m" 400 -
+2024-01-16 09:29:57,596 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\auth.py', reloading
+2024-01-16 09:29:58,195 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:30:04,384 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 09:30:04,384 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 09:30:04,390 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:30:05,409 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:30:05,409 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:30:11,309 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:30:11] "POST /login HTTP/1.1" 200 -
+2024-01-16 09:31:14,207 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 09:31:14,208 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 09:31:14,212 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:31:15,356 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:31:15,356 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:31:19,008 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:31:19] "POST /login HTTP/1.1" 200 -
+2024-01-16 09:31:23,088 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:31:23] "[31m[1mPOST /add_product HTTP/1.1[0m" 400 -
+2024-01-16 09:32:07,086 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:32:07] "[31m[1mPOST /add_product HTTP/1.1[0m" 400 -
+2024-01-16 09:32:26,910 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\admin.py', reloading
+2024-01-16 09:32:26,970 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:32:27,907 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:32:27,907 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:32:32,254 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:32:32] "[35m[1mPOST /add_product HTTP/1.1[0m" 500 -
+2024-01-16 09:33:46,867 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\product_controller.py', reloading
+2024-01-16 09:33:46,933 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:33:47,806 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:33:47,806 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:33:50,205 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\product_controller.py', reloading
+2024-01-16 09:33:50,267 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:33:51,325 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:33:51,325 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:34:00,443 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\product_controller.py', reloading
+2024-01-16 09:34:00,502 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:34:01,466 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:34:01,466 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:34:25,474 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 09:34:25,474 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 09:34:25,480 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:34:26,728 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:34:26,728 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:35:57,566 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:35:57] "POST /login HTTP/1.1" 200 -
+2024-01-16 09:36:04,092 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:36:04] "[35m[1mPOST /add_product HTTP/1.1[0m" 500 -
+2024-01-16 09:38:33,096 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 09:38:33,096 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 09:38:33,103 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:38:35,088 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:38:35,096 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:38:36,243 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:38:36] "POST /login HTTP/1.1" 200 -
+2024-01-16 09:39:32,030 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\login.py', reloading
+2024-01-16 09:39:32,140 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:39:33,528 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:39:33,531 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:39:38,574 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\login.py', reloading
+2024-01-16 09:39:38,668 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:39:40,649 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:39:40,657 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:39:45,302 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:39:45] "POST /login HTTP/1.1" 200 -
+2024-01-16 09:39:51,087 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:39:51] "[35m[1mPOST /add_product HTTP/1.1[0m" 500 -
+2024-01-16 09:40:09,079 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\login.py', reloading
+2024-01-16 09:40:09,881 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:40:11,407 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:40:11,407 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:40:16,391 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\login.py', reloading
+2024-01-16 09:40:16,462 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:40:18,032 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:40:18,048 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:40:23,104 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\login.py', reloading
+2024-01-16 09:40:23,224 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:40:25,053 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:40:25,069 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:40:47,406 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\product_controller.py', reloading
+2024-01-16 09:40:47,528 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:40:49,131 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:40:49,136 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:41:03,775 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\customer.py', reloading
+2024-01-16 09:41:03,866 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:41:05,379 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:41:05,379 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:41:21,762 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\admin.py', reloading
+2024-01-16 09:41:21,856 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:41:23,276 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:41:23,284 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:41:34,519 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 09:41:34,519 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 09:41:34,528 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:41:36,450 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:41:36,466 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:41:38,922 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:41:38] "POST /login HTTP/1.1" 200 -
+2024-01-16 09:41:42,945 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:41:42] "[31m[1mPOST /add_product HTTP/1.1[0m" 400 -
+2024-01-16 09:42:47,004 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 09:42:47,004 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 09:42:47,010 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 09:42:49,062 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 09:42:49,062 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 09:42:49,426 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 09:42:49] "POST /login HTTP/1.1" 200 -
+2024-01-16 10:07:23,729 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 10:07:23,729 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 10:07:23,729 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 10:07:24,483 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 10:07:24,495 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 10:07:30,453 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 10:07:30] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2024-01-16 10:21:22,621 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 10:21:22,621 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 10:21:22,621 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 10:21:23,376 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 10:21:23,376 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 10:21:28,208 INFO     [auth.py:43] None
+2024-01-16 10:21:28,209 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 10:21:28] "POST /login HTTP/1.1" 200 -
+2024-01-16 10:21:32,826 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 10:21:32] "[35m[1mPOST /add_product HTTP/1.1[0m" 500 -
+2024-01-16 11:55:49,416 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 11:55:49,417 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 11:55:49,417 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 11:55:50,210 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 11:55:50,225 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 11:55:54,460 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 11:55:54] "[31m[1mPOST /product HTTP/1.1[0m" 401 -
+2024-01-16 11:55:59,495 INFO     [auth.py:43] None
+2024-01-16 11:55:59,495 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 11:55:59] "POST /login HTTP/1.1" 200 -
+2024-01-16 11:56:04,821 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 11:56:04] "[35m[1mPOST /product HTTP/1.1[0m" 500 -
+2024-01-16 13:46:55,859 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 13:46:55,859 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 13:46:55,863 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:46:56,686 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:46:56,686 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:47:03,336 INFO     [auth.py:43] None
+2024-01-16 13:47:03,337 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 13:47:03] "POST /login HTTP/1.1" 200 -
+2024-01-16 13:47:08,803 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 13:47:08] "[35m[1mPOST /product HTTP/1.1[0m" 500 -
+2024-01-16 13:49:36,629 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:49:37,244 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:49:38,076 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:49:38,076 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:49:40,418 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:49:40,495 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:49:41,324 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:49:41,324 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:49:43,613 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:49:43,676 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:49:44,594 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:49:44,609 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:50:13,434 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 13:50:13,434 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 13:50:13,437 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:50:14,175 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:50:14,175 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:50:18,076 INFO     [auth.py:43] None
+2024-01-16 13:50:18,077 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 13:50:18] "POST /login HTTP/1.1" 200 -
+2024-01-16 13:50:24,554 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 13:50:24] "[35m[1mPOST /product HTTP/1.1[0m" 500 -
+2024-01-16 13:52:22,218 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:52:22,265 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:52:41,360 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 13:52:41,360 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 13:52:41,360 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:52:42,151 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:52:42,153 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:52:48,472 INFO     [auth.py:43] None
+2024-01-16 13:52:48,472 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 13:52:48] "POST /login HTTP/1.1" 200 -
+2024-01-16 13:52:52,008 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 13:52:52] "[35m[1mPOST /product HTTP/1.1[0m" 500 -
+2024-01-16 13:53:03,662 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:53:03,724 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:53:04,533 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:53:04,535 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:53:06,786 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:53:06,842 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:53:07,668 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:53:07,668 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:53:13,460 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 13:53:13,460 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 13:53:13,460 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:53:14,210 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:53:14,210 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:53:16,808 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 13:53:16] "[35m[1mPOST /product HTTP/1.1[0m" 500 -
+2024-01-16 13:53:18,958 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 13:53:18] "[35m[1mPOST /product HTTP/1.1[0m" 500 -
+2024-01-16 13:55:44,847 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:55:44,894 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:55:45,693 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:55:45,695 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:55:49,007 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:55:49,057 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:55:49,866 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:55:49,866 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:55:53,228 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:55:53,285 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:55:54,102 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:55:54,102 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:56:03,815 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:56:03,867 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:56:04,670 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:56:04,672 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:56:09,086 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:56:09,143 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:56:35,515 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 13:56:35,515 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 13:56:35,515 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:56:36,346 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:56:36,346 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:56:40,179 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 13:56:40] "[35m[1mPOST /product HTTP/1.1[0m" 500 -
+2024-01-16 13:57:54,404 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:57:54,451 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:57:55,259 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:57:55,259 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:58:00,750 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:58:00,797 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:58:01,665 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:58:01,665 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:58:06,097 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:58:06,153 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:58:06,933 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:58:06,933 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:58:20,961 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 13:58:21,008 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:58:21,777 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:58:21,777 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:58:27,796 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 13:58:27,796 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 13:58:27,796 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:58:28,586 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:58:28,586 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:58:31,064 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 13:58:31] "[31m[1mPOST /product HTTP/1.1[0m" 422 -
+2024-01-16 13:58:54,352 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\schemas.py', reloading
+2024-01-16 13:58:54,383 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:59:07,418 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 13:59:07,418 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 13:59:07,420 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:59:08,230 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:59:08,230 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:59:11,607 INFO     [auth.py:43] None
+2024-01-16 13:59:11,607 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 13:59:11] "POST /login HTTP/1.1" 200 -
+2024-01-16 13:59:15,733 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 13:59:15] "[31m[1mPOST /product HTTP/1.1[0m" 422 -
+2024-01-16 13:59:30,728 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\schemas.py', reloading
+2024-01-16 13:59:30,775 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:59:31,557 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:59:31,557 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:59:33,830 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\schemas.py', reloading
+2024-01-16 13:59:33,892 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 13:59:34,720 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 13:59:34,722 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 13:59:43,405 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\schemas.py', reloading
+2024-01-16 13:59:43,450 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:00:03,465 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-16 14:00:03,465 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-16 14:00:03,465 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:00:04,252 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:00:04,268 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:00:06,712 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 14:00:06] "POST /product HTTP/1.1" 200 -
+2024-01-16 14:02:02,960 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 14:02:02] "[31m[1mDELETE /product/5 HTTP/1.1[0m" 401 -
+2024-01-16 14:02:21,042 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 14:02:21] "DELETE /product/5 HTTP/1.1" 200 -
+2024-01-16 14:03:01,093 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 14:03:01] "[35m[1mPUT /product/5 HTTP/1.1[0m" 500 -
+2024-01-16 14:03:27,714 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 14:03:27] "[35m[1mPUT /product/2 HTTP/1.1[0m" 500 -
+2024-01-16 14:05:28,502 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 14:05:28,549 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:05:29,405 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:05:29,405 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:06:39,938 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\product_controller.py', reloading
+2024-01-16 14:06:39,997 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:06:40,790 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:06:40,790 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:07:07,121 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 14:07:07] "[35m[1mPUT /product/2 HTTP/1.1[0m" 500 -
+2024-01-16 14:07:36,255 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 14:07:36,291 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:07:37,094 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:07:37,094 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:07:40,435 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 14:07:40,476 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:07:41,317 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:07:41,320 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:07:43,601 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 14:07:43,664 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:07:44,473 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:07:44,475 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:07:46,748 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 14:07:46,789 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:07:47,622 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:07:47,622 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:07:49,671 INFO     [_internal.py:96] 127.0.0.1 - - [16/Jan/2024 14:07:49] "PUT /product/2 HTTP/1.1" 200 -
+2024-01-16 14:08:01,638 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-16 14:08:01,685 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:08:02,548 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:08:02,548 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:08:28,301 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\customer.py', reloading
+2024-01-16 14:08:28,344 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:08:29,155 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:08:29,157 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:08:33,496 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\customer.py', reloading
+2024-01-16 14:08:33,544 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:08:34,336 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:08:34,338 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:08:40,835 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\customer.py', reloading
+2024-01-16 14:08:40,889 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:08:41,676 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:08:41,678 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:08:44,997 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\customer.py', reloading
+2024-01-16 14:08:45,042 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:08:45,888 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:08:45,891 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:08:49,234 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\customer.py', reloading
+2024-01-16 14:08:49,279 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:08:50,085 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:08:50,087 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:08:54,474 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\customer.py', reloading
+2024-01-16 14:08:54,519 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:08:55,303 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:08:55,304 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:08:58,668 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\customer.py', reloading
+2024-01-16 14:08:58,716 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:08:59,531 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:08:59,533 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:09:06,010 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\customer.py', reloading
+2024-01-16 14:09:06,057 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:09:06,811 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:09:06,811 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:09:19,658 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\customer.py', reloading
+2024-01-16 14:09:20,298 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:09:21,078 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:09:21,080 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:10:43,129 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\order_controller.py', reloading
+2024-01-16 14:10:43,168 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:10:44,023 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:10:44,023 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:10:47,353 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\order_controller.py', reloading
+2024-01-16 14:10:47,401 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:10:48,231 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:10:48,233 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:10:49,407 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\order_controller.py', reloading
+2024-01-16 14:10:49,454 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:10:50,252 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:10:50,252 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:10:53,563 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\order_controller.py', reloading
+2024-01-16 14:10:53,616 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:10:54,422 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:10:54,438 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:10:55,634 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\order_controller.py', reloading
+2024-01-16 14:10:55,694 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:10:56,473 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:10:56,475 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:10:59,773 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\order_controller.py', reloading
+2024-01-16 14:10:59,820 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:11:00,588 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:11:00,590 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:11:01,779 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\order_controller.py', reloading
+2024-01-16 14:11:01,826 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:11:02,585 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:11:02,585 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:11:04,869 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\order_controller.py', reloading
+2024-01-16 14:11:04,915 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:11:05,683 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:11:05,683 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:14:37,552 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\wallet.py', reloading
+2024-01-16 14:14:37,583 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:14:38,396 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:14:38,396 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:14:41,718 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\wallet.py', reloading
+2024-01-16 14:14:41,768 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:14:42,521 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:14:42,521 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:14:47,997 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\wallet.py', reloading
+2024-01-16 14:14:48,035 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:14:48,821 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:14:48,824 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:14:51,065 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\wallet.py', reloading
+2024-01-16 14:14:51,097 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:14:51,894 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:14:51,894 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:14:56,305 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\wallet.py', reloading
+2024-01-16 14:14:56,364 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:14:57,205 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:14:57,205 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:15:01,581 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\wallet.py', reloading
+2024-01-16 14:15:01,642 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:15:02,445 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:15:02,447 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:15:04,747 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\wallet.py', reloading
+2024-01-16 14:15:04,794 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:15:05,595 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:15:05,595 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:18:40,376 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\product_controller.py', reloading
+2024-01-16 14:18:40,454 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-16 14:18:41,677 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-16 14:18:41,678 INFO     [_internal.py:96]  * Debugger PIN: 809-467-492
+2024-01-16 14:18:45,225 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\product_controller.py', reloading
+2024-01-16 14:18:45,295 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-17 17:41:31,632 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-17 17:41:31,632 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-17 17:41:31,632 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-17 17:41:32,691 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-17 17:41:32,701 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-18 14:35:33,706 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-18 14:35:33,706 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-18 14:35:33,706 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-18 14:35:34,508 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-18 14:35:34,516 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-18 14:36:40,048 INFO     [_internal.py:96] 127.0.0.1 - - [18/Jan/2024 14:36:40] "GET /swagger-ui HTTP/1.1" 200 -
+2024-01-18 14:36:40,958 INFO     [_internal.py:96] 127.0.0.1 - - [18/Jan/2024 14:36:40] "GET /openapi.json HTTP/1.1" 200 -
+2024-01-18 14:36:40,972 INFO     [_internal.py:96] 127.0.0.1 - - [18/Jan/2024 14:36:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-01-18 15:28:39,919 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-18 15:28:39,919 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-18 15:28:39,919 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-18 15:28:40,653 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-18 15:28:40,653 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 10:48:22,493 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-19 10:48:22,493 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-19 10:48:22,493 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 10:48:23,220 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 10:48:23,236 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 10:48:40,141 INFO     [auth.py:43] None
+2024-01-19 10:48:40,142 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 10:48:40] "POST /login HTTP/1.1" 200 -
+2024-01-19 10:48:51,829 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 10:48:51] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2024-01-19 10:57:00,755 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 10:57:00] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2024-01-19 13:45:55,326 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 13:45:55] "GET /swagger-ui HTTP/1.1" 200 -
+2024-01-19 13:45:55,560 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 13:45:55] "GET /openapi.json HTTP/1.1" 200 -
+2024-01-19 13:45:55,569 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 13:45:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-01-19 13:59:06,988 INFO     [auth.py:43] None
+2024-01-19 13:59:06,988 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 13:59:06] "POST /login HTTP/1.1" 200 -
+2024-01-19 13:59:55,783 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 13:59:55] "[31m[1mPOST /logout HTTP/1.1[0m" 401 -
+2024-01-19 14:04:11,230 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:04:11] "[35m[1mPOST /logout HTTP/1.1[0m" 500 -
+2024-01-19 14:04:21,156 INFO     [auth.py:43] None
+2024-01-19 14:04:21,157 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:04:21] "POST /login HTTP/1.1" 200 -
+2024-01-19 14:04:25,824 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:04:25] "[35m[1mPOST /logout HTTP/1.1[0m" 500 -
+2024-01-19 14:09:42,413 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\logout.py', reloading
+2024-01-19 14:09:42,500 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:09:43,539 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:09:43,539 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:09:56,412 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\logout.py', reloading
+2024-01-19 14:09:56,459 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:09:57,289 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:09:57,291 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:10:00,603 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\logout.py', reloading
+2024-01-19 14:10:00,653 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:10:01,435 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:10:01,435 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:10:03,701 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\logout.py', reloading
+2024-01-19 14:10:03,764 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:10:04,602 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:10:04,602 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:10:08,951 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\logout.py', reloading
+2024-01-19 14:10:09,016 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:10:09,812 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:10:09,814 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:10:13,127 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\logout.py', reloading
+2024-01-19 14:10:13,191 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:10:13,957 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:10:13,957 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:10:15,158 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\logout.py', reloading
+2024-01-19 14:10:15,209 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:10:16,085 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:10:16,087 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:10:22,604 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\login.py', reloading
+2024-01-19 14:10:22,652 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:13:30,904 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-19 14:13:30,904 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-19 14:13:30,907 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:13:31,759 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:13:31,759 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:13:38,171 INFO     [auth.py:43] None
+2024-01-19 14:13:38,171 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:13:38] "POST /login HTTP/1.1" 200 -
+2024-01-19 14:13:42,676 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:13:42] "POST /logout HTTP/1.1" 200 -
+2024-01-19 14:13:49,165 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:13:49] "[35m[1mGET /product HTTP/1.1[0m" 500 -
+2024-01-19 14:16:38,780 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\controllers\\product_controller.py', reloading
+2024-01-19 14:16:38,845 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:16:39,977 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:16:39,979 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:16:49,534 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:16:49] "[35m[1mGET /product HTTP/1.1[0m" 500 -
+2024-01-19 14:20:28,031 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-19 14:20:28,031 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-19 14:20:28,033 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:20:28,790 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:20:28,806 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:20:34,427 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:20:34] "[35m[1mGET /product HTTP/1.1[0m" 500 -
+2024-01-19 14:33:09,235 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-19 14:33:09,235 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-19 14:33:09,242 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:33:10,045 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:33:10,045 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:33:17,458 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:33:17] "GET /swagger-ui HTTP/1.1" 200 -
+2024-01-19 14:33:17,712 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:33:17] "GET /openapi.json HTTP/1.1" 200 -
+2024-01-19 14:34:15,096 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:34:15] "[35m[1mGET /product/1 HTTP/1.1[0m" 500 -
+2024-01-19 14:38:19,783 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-19 14:38:19,783 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-19 14:38:19,791 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:38:20,611 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:38:20,613 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:38:20,695 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:38:20] "GET /swagger-ui HTTP/1.1" 200 -
+2024-01-19 14:38:20,826 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:38:20] "GET /openapi.json HTTP/1.1" 200 -
+2024-01-19 14:39:02,286 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-19 14:39:02,353 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:39:03,179 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:39:03,181 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:39:05,822 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-19 14:39:05,822 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-19 14:39:05,822 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:39:06,600 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:39:06,600 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:39:09,236 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:39:09] "GET /swagger-ui HTTP/1.1" 200 -
+2024-01-19 14:39:09,325 INFO     [_internal.py:96] 127.0.0.1 - - [19/Jan/2024 14:39:09] "GET /openapi.json HTTP/1.1" 200 -
+2024-01-19 14:39:33,511 INFO     [_internal.py:96]  * Detected change in 'c:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-19 14:39:33,558 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:39:34,356 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:39:34,356 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-19 14:39:34,491 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\product.py', reloading
+2024-01-19 14:39:34,528 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-19 14:39:35,354 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-19 14:39:35,354 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-25 11:11:23,268 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-25 11:11:23,268 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-25 11:11:23,285 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-25 11:11:24,060 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-25 11:11:24,060 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-25 11:11:30,442 INFO     [auth.py:43] None
+2024-01-25 11:11:30,442 INFO     [_internal.py:96] 127.0.0.1 - - [25/Jan/2024 11:11:30] "POST /login HTTP/1.1" 200 -
+2024-01-25 11:11:53,850 INFO     [_internal.py:96] 127.0.0.1 - - [25/Jan/2024 11:11:53] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2024-01-25 11:12:30,364 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\login.py', reloading
+2024-01-25 11:12:30,414 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-25 11:12:58,246 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-25 11:12:58,246 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-01-25 11:12:58,246 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-25 11:12:59,068 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-25 11:12:59,068 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-25 11:13:04,093 INFO     [_internal.py:96] 127.0.0.1 - - [25/Jan/2024 11:13:04] "POST /login HTTP/1.1" 200 -
+2024-01-25 11:13:42,894 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\login.py', reloading
+2024-01-25 11:13:42,967 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-25 11:13:43,809 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-25 11:13:43,811 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-25 11:13:46,821 INFO     [_internal.py:96] 127.0.0.1 - - [25/Jan/2024 11:13:46] "POST /login HTTP/1.1" 200 -
+2024-01-25 11:13:54,605 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\psharma\\OneDrive - WatchGuard Technologies Inc\\Desktop\\Project - Copy\\src\\resources\\login.py', reloading
+2024-01-25 11:13:54,651 INFO     [_internal.py:96]  * Restarting with stat
+2024-01-25 11:13:55,501 WARNING  [_internal.py:96]  * Debugger is active!
+2024-01-25 11:13:55,501 INFO     [_internal.py:96]  * Debugger PIN: 655-590-279
+2024-01-25 11:13:57,838 INFO     [_internal.py:96] 127.0.0.1 - - [25/Jan/2024 11:13:57] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
