@@ -66,10 +66,10 @@ GET_PRODUCT_PRICE : |
   SELECT prod_price FROM product WHERE p_id=?
                  
 CHECK_WALLET_STATUS : |
-    SELECT wallet_status FROM user WHERE email=?
+    SELECT wallet_status FROM user WHERE email=?;
                     
 UPDATE_WALLET_STATUS : |
-    UPDATE user SET wallet_status=wallet_status+? WHERE email=?
+    UPDATE user SET wallet_status=wallet_status + ? WHERE email=?
                     
 USER_DATA : |
     SELECT * FROM login WHERE email=?

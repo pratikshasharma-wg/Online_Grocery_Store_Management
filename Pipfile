@@ -19,6 +19,12 @@ passlib = "*"
 marshmallow = "*"
 python-dotenv = "*"
 gunicorn = "*"
+fastapi = "*"
+jose = "*"
+python-jose = "*"
+httpx = "*"
+uvicorn = {extras = ["standard"], version = "*"}
+black = "*"
 
 [dev-packages]
 

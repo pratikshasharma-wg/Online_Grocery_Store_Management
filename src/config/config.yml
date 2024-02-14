@@ -32,7 +32,7 @@ update_product_prompt : |
 
 welcome : '************Welcome to Online Grocery Store************ \n \n'
 
-database_name : src\\models\\grocery.db
+database_name : grocery.db
 
 ask_for_login_signup : |
   Please Select an option:

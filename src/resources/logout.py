@@ -4,9 +4,11 @@ from flask_smorest import Blueprint, abort
 from controllers.auth import login
 from flask_jwt_extended import create_access_token, get_jwt, jwt_required
 
-blp = Blueprint("logout", __name__, description = "Logout user")
+blp = Blueprint("logout", __name__, description="Logout user")
 
 BLOCKLIST = set()
+
+
 @blp.route("/logout")
 class Logout(MethodView):
 
