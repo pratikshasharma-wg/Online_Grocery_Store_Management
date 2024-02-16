@@ -4,7 +4,6 @@ from routes.register import router as register
 from routes.product import router as product
 from routes.order import router as order
 from routes.wallet import router as wallet
-from config.config import Config
 
 
 app = FastAPI()
