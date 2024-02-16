@@ -1,5 +1,6 @@
 from fastapi import APIRouter, HTTPException, Body, Path, Depends
 from starlette import status
+from schemas import AddProduct
 from fastapi.security import OAuth2PasswordBearer
 from typing import Annotated
 from controllers.product_controller import (
@@ -8,6 +9,7 @@ from controllers.product_controller import (
     update_product,
     show_all_products,
 )
+
 from .api_utils import token_dependency, role_required
 
 
@@ -16,11 +18,11 @@ router = APIRouter()
 
 @router.post("/products", status_code=status.HTTP_200_OK)
 @role_required(["Admin"])
-def add_products(token:token_dependency, product_info=Body()):
+def add_products(product_info: AddProduct, token:token_dependency):
     return_val = add_product(
-        product_info["product_name"],
-        product_info["product_price"],
-        product_info["product_quantity"],
+        product_info.product_name,
+        product_info.product_price,
+        product_info.product_quantity,
     )
 
     if return_val is True:

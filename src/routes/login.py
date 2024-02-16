@@ -3,6 +3,7 @@ from starlette import status
 from jose import jwt
 from datetime import datetime, timedelta
 from controllers.auth import login
+from schemas import SignIn
 
 
 router = APIRouter()
@@ -13,9 +14,9 @@ ALGORITHM = "HS256"
 
 
 @router.post("/login", status_code=status.HTTP_200_OK)
-def login_user(user_info=Body()):
+def login_user(user_info: SignIn):
 
-    return_val = login(user_info["email"], user_info["password"])
+    return_val = login(user_info.email, user_info.password)
 
     if return_val is None or return_val is False:
         raise HTTPException(401, "Invalid Credentials!")
