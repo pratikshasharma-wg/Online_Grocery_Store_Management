@@ -19,6 +19,7 @@ passlib = "*"
 marshmallow = "*"
 python-dotenv = "*"
 gunicorn = "*"
+fastapi = "*"
 
 [dev-packages]
 

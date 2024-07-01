@@ -17,7 +17,6 @@ class Login(MethodView):
         if user_data is None:
             abort(400, message = "Can't log in...")
         elif user_data[0] == False:
-            # abort(401, message = "Invalid Credentials...")
             return {
                 "code": 401,
                 "status": "Unauthorized",

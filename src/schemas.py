@@ -28,3 +28,7 @@ class UpdateProductSchema(Schema):
 
 class WalletSchema(Schema):
     amount = fields.Int(required = True)
+
+class PlaceOrderSchema(Schema):
+    prod_id = fields.Int(required=True)
+    prod_quan = fields.Int(required=True)

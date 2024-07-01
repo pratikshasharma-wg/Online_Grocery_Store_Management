@@ -3,15 +3,14 @@ from flask.views import MethodView
 from flask_smorest import Blueprint, abort
 from flask_jwt_extended import jwt_required
 from utils.validators import role_required
-from controllers.product_controller import add_product, delete_product, update_product
-from controllers.product_controller import show_all_products
+from controllers.product_controller import add_product, delete_product, update_product, show_all_products
 from schemas import AddProductSchema, UpdateProductSchema
 
 
 blp = Blueprint("product", __name__, description = "operations on product")
 
-@blp.route("/product")
-@blp.route("/product/<int:product_id>")
+@blp.route("/products")
+@blp.route("/products/<int:product_id>")
 class Product(MethodView):
 
     @jwt_required()
@@ -80,6 +79,7 @@ class Product(MethodView):
     @role_required(["Admin", "Customer"])
     @blp.doc(parameters=[{'name': 'Authorization', 'in': 'header', 'description': 'Authorization: Bearer <access_token>', 'required': 'true'}])
     def get(self, product_id = None):
+    
         if not product_id:
             return_val = show_all_products()
             if return_val is not None:
@@ -87,3 +87,13 @@ class Product(MethodView):
                     "Products": return_val
                 }       
         abort(400, message = "Try again!")
+
+# def get(self):
+#         data = show_all_avail_prod()
+#         if data is None:
+#             return {
+#                 "message": "No products available!"
+#             }
+#         return {
+#             "Products": [data]
+#         }

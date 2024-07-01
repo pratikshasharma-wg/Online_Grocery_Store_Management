@@ -33,7 +33,7 @@ def show_all_avail_prod():
         with DatabaseConnection(Config.DB_NAME) as connection:
             cursor=connection.cursor()
             data = cursor.execute(DBConfig.SHOW_ALL_AVAIL_PRODUCTS).fetchall()
-            print(data)
+            
             json_data = [
                 {
                     "product_id": product[0],
@@ -43,7 +43,7 @@ def show_all_avail_prod():
                 }
                 for product in data
             ]
-            print(json_data)
+           
             return json_data
             # print(tabulate((cursor.execute(DBConfig.SHOW_ALL_AVAIL_PRODUCTS)).fetchall(),
             #                 headers=["Product ID","Product Name","Product Quantity","Product Price"]),"\n")
